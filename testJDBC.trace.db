@@ -1,0 +1,3 @@
+2022-12-13 19:06:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "WORKER" not found (this database is empty); SQL statement:
+INSERT INTO worker (name, birthday, level, salary) VALUES(?, ?, ?, ?) [42104-214]
